@@ -9,7 +9,7 @@ This platform provides comprehensive tools for educators, mentors, and mentees a
 - Vite
 - Redux
 - Zod
-- Next JS
+
 
 ## Features
 
